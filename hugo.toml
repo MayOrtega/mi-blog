@@ -1,0 +1,9 @@
+baseURL = "http://localhost:1313/"
+languageCode = "es-cl"
+title = "Mi Blog"
+theme = "ananke"
+defaultContentLanguage = "es"
+
+[params]
+  author = "May"
+  description = "Espacio de expresión y reflexión"
